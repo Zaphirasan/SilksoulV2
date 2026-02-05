@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zoejo/Documents/Github/SilksoulV2/SilksoulV2/Content/01_Levels/Lv_MossGrotto.umap",
+				"C:/Users/zoejo/Documents/Github/SilksoulV2/SilksoulV2/Content/01_Levels/01_ArtistLevels/Lv_Joel.umap",
+				"C:/Users/zoejo/Documents/Github/SilksoulV2/SilksoulV2/Content/01_Levels/01_ArtistLevels/Lv_Nox.umap",
+				"C:/Users/zoejo/Documents/Github/SilksoulV2/SilksoulV2/Content/01_Levels/01_ArtistLevels/Lv_Zoe.umap"
+			]
+		}
+	]
+}
